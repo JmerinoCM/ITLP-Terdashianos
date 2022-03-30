@@ -4,7 +4,7 @@
 
 - Página web: https://4v1enh-jmzarco.shinyapps.io/ITLP_Terdashianos/
 
-- Enlace alternativo al repositorio: https://drive.google.com/drive/u/1/folders/1hpxXcZTYVu7XwdgQhsYzgAKg686JBI45
+- Enlace alternativo al repositorio: https://drive.google.com/drive/folders/1iYKGCiSwd25eqGAfCtJwL4W-36h7G8N8?usp=sharing
 
 ## Instrucciones para correr el archivo
 
@@ -14,4 +14,5 @@
 
 ## Notas adicionales:
 
+Debido a que algunos archivos exceden el peso permitido por Github, para replicar la app y el procesamiento de datos es recomendable usar los archivos del enlace alternativo.
 
