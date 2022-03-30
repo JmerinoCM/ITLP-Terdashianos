@@ -1,5 +1,7 @@
 # "El efecto de la pandemia sobre la Pobreza laboral"
 
+Proyecto para el Datatón "Tu dinero tus datos"
+
 ## Enlaces
 
 - Página web: https://4v1enh-jmzarco.shinyapps.io/ITLP_Terdashianos/
