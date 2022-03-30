@@ -10,9 +10,9 @@ https://drive.google.com/drive/u/1/folders/1hpxXcZTYVu7XwdgQhsYzgAKg686JBI45
 
 ## Instrucciones para correr el archivo
 
-- 1.- Abrir el archivo ui.R
-- 2.- Seleccionar la opción " Run App "
-- 3.- Interactuar con la app
+1. Abrir el archivo ui.R
+2. Seleccionar la opción " Run App "
+3. Interactuar con la app
 
 ## Notas adicionales:
 
