@@ -1,6 +1,6 @@
 # "El efecto de la pandemia sobre la Pobreza laboral"
 
-Proyecto para el Datatón "Tu dinero tus datos"
+Proyecto para el Datatón "Tu dinero tus datos" organizado por la Agencia Digital de Innovación Pública de la Ciudad de México.
 
 ## Enlaces
 
