@@ -14,6 +14,10 @@ Proyecto para el Datatón "Tu dinero tus datos" organizado por la Agencia Digita
 2. Seleccionar la opción " Run App "
 3. Interactuar con la app
 
+## Imputaciones
+
+Las imputaciones de ingresos se realizaron en STATA, los do files se pueden encontrar en la carpeta "Codigos para el cálculo de la ITLP/Programas"
+
 ## Notas adicionales:
 
 Debido a que algunos archivos exceden el peso permitido por Github, para replicar la app y el procesamiento de datos es recomendable usar los archivos del enlace alternativo.
